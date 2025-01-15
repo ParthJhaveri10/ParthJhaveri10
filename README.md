@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParthJhaveri
 - 👀 I’m interested in  data analysis
 - 🌱 I’m have learned Python,C,C++,Java,HTML,CSS,Bootstrap,Angular,JavaScript,Node,SQL and Jquery
-- 💞️ 
+
 
 
 <!---
