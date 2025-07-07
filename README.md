@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ParthJhaveri
-- 👀 I’m interested in  data analysis
-- 🌱 I’m have learned Python,C,C++,Java,HTML,CSS,Bootstrap,Angular,JavaScript,Node,SQL and Jquery
-
+- 👀 I’m interested in  data analysis and machine learning mainly in the domain of generative AI
+- Here's my portfolio- https://galaxy-parth.vercel.app/
 
 
 <!---
