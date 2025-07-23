@@ -10,10 +10,12 @@ I’m a curious and detail-oriented individual interested in **data analysis** a
 
 ## 🛠️ Tools & Technologies I Work With
 
-- SQL  
-- Python (basic scripting)  
+- MySQL
+- C++
+- Java
+- Python DSA (mainly preferred) along with libraries like numpy, pandas and seaborn
 - Tableau   
-- Excel & Google Sheets with Appscript
+- Excel & Google Sheets with Appscript & Google Developer Tools
 - Web: HTML, CSS, JavaScript and React Basics  
 - Version Control: GitHub  
 - Backend: Appwrite, MySQL  
