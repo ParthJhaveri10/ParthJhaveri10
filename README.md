@@ -22,13 +22,13 @@ I’m a curious and detail-oriented individual interested in **data analysis** a
 
 ## 📌 Portfolio
 
-Check out my work here 👉 [galaxy-parth.vercel.app](https://galaxy-parth.vercel.app)
+My Porfolio Website 👉 [galaxy-parth.vercel.app](https://galaxy-parth.vercel.app)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: parth.jhaveri.dev@gmail.com  
+- 📧 Email: jhaveriparth10@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/parthjhaveri-/](https://www.linkedin.com/in/parthjhaveri-/)
 
 ---
