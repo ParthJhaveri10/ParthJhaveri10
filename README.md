@@ -29,7 +29,7 @@ Check out my work here 👉 [galaxy-parth.vercel.app](https://galaxy-parth.verce
 ## 📫 Let's Connect
 
 - 📧 Email: parth.jhaveri.dev@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/parth-jhaveri-075a71259](https://www.linkedin.com/in/parth-jhaveri-075a71259/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/parthjhaveri-/](https://www.linkedin.com/in/parthjhaveri-/)
 
 ---
 
